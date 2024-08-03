@@ -44,9 +44,9 @@ module.exports = {
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
-  VERSION: process.env.VERSION === undefined ? 'v.0.0.2' : process.env.VERSION,
-  LANG: process.env.THEME|| 'RAPHAEL-MD-V2',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE,
+  VERSION: process.env.VERSION === undefined ? 'v.0.0.1' : process.env.VERSION,
+  LANG: process.env.THEME|| 'RAPHAEL-MDV2',
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE,
   LG: process.env.LG === undefined ? 'false' : process.env.LG,
 };
 
