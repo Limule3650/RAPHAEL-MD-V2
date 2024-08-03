@@ -5,7 +5,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 //═══════[Required Variables]════════\\
 process.env.OWNER_NUMBER = process.env.OWNER_NUMBER || '237698581946'
 global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || ""
 global.port= process.env.PORT || 5000
 global.email = 'mikaelkiyotaka@gmail.com'
 global.github = 'https://github.com/Limule3650/RAPHAEL-MD-V2'
