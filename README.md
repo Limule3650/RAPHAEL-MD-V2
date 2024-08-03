@@ -130,7 +130,9 @@
 
 #### Thanks To 
 
-<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" alt="toge012345"/></a>
+<a href="https://github.com/CrazyPrince"><img src="https://github.com/CrazyPrince.png" alt="CrazyPrince"/></a>
+
+**For bot script**
 
 
 
