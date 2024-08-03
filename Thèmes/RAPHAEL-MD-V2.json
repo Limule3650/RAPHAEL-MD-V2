@@ -1,0 +1,58 @@
+
+{
+    "_JSON_": true,
+    "AUTHOR": "Limule3650",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "REMARK : MASTER I ADVISE YOU TO UPDATE RAPHAEL-MD-V2",
+            "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "Fresh Updates Installed!"
+        },
+        "global": {
+            "botName": "RAPHAEL-MD-V2",
+            "body": " LIMULE-SAMA ",
+            "greet2" : "HI Master! I'm Great Sage",
+            "pic1": "https://telegra.ph/file/850d3f2367441169e659f.jpg",
+            "pic2": "https://telegra.ph/file/39394d8ffdd7632cb1e5c.jpg",
+            "pic3": "https://telegra.ph/file/82ca089ddb17002fcc94b.jpg",
+            "pic4": "https://telegra.ph/file/ea8a500c0baba7c55fc7c.jpg",
+            "pic5": "https://telegra.ph/file/82ca089ddb17002fcc94b.jpg",
+            "pic6": "https://telegra.ph/file/4ad1da98558ff666b98c4.jpg",
+            "pic7": "https://telegra.ph/file/850d3f2367441169e659f.jpg",
+             "greet" : "こんにちは",
+           "dotbody" : "はい。私はここにいます。", 
+            "emijii" : "🐉",
+            "promote": "Master capacity evolution from member to admin achieve!",
+            "pmallow": "Hello,This is RAPHAEL-MD-V2\n*By Limule sama.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message shapshap_",
+            "pmblock": "🚫 Blocked*\n\n Dear your blocked for spamming.\n\n 動力付き  by RAPHAEL-MD-V2",
+            "pmwarn": "💢HUMAN* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * by SASAKI-MD*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 動力付き by RAPHAEL-MD-V2", 
+            "revoked" : "Human ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 動力付き by RAPHAEL-MD-V2",
+            "demote": "Usurpation has occurred on you, human your level went down from admin to member",
+            "antlink": "⛔Link Detected.\n*Sayonara useless human without futur*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*動力付き by RAPHAEL-MD-V2*",
+            "mention": " Master, can't activate capacity without you mentioning someone!",
+            "title": "RAPHAEL-MD-V2",
+            "footer": "Hi, Master am online",
+            "by": "Made by: Limule Solitarus-sama",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Success ✓",
+            "dot": "Please Master!, try help",
+            "couple_male": "Our Holy father does not accept that.",
+            "couple_female": "Humm....",
+            "admin": "⚠︎𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙸𝚂 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙳𝙼𝙸𝙽⚠️!",
+            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
+            "owner": "𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙻𝙸𝙼𝚄𝙻𝙴 𝚂𝙰𝙼𝙰 𝙾𝚁 𝙼𝚈 𝙾𝚆𝙼𝙴𝚁 ⚠️",
+            "group": "𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿❗",
+            "private": "𝙲𝙰𝙿𝙰𝙲𝙸𝚃𝚈 𝚁𝙴𝙵𝚄𝚂𝙴𝙳 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝙾𝚁 𝙻𝙸𝙼𝚄𝙻𝚂 𝚂𝙰𝙼𝙰 ⚠️",
+            "bot": "𝙼𝙰𝚂𝚃𝙴𝚁 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝙾𝙽𝙻𝚈 𝙵𝙵𝙾𝚁 𝙱𝙾𝚃 𝙽𝚄𝙼𝙱𝙴𝚁⚠️",
+            "wait": "𝚈𝙾𝚄𝚁 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙸𝚂 𝙾𝙽 𝙿𝚁𝙾𝙲𝙴𝚂𝚂✅"
+        },
+        "error": {
+            "text": "Task Failed"
+        }
+    }
+        }
+          
