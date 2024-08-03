@@ -1,6 +1,6 @@
 {
           "name": "RAPHAEL-MD-V2",
-          "version": "0.0.2",
+          "version": "0.0.1",
           "description": "Multi device bot made with heart by Limule Solitarus-sama .",
           "main": "lib/client.js",
           "type": "commonjs",
