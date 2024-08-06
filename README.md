@@ -50,8 +50,10 @@
 <a href='https://github.com/Limule3650/RAPHAEL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
 
 ### 2. SESSION ID
-<br>
-<a href="https://raphael-session-id.onrender.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+Scan the QR and copy it
+    <br>
+<a href='https://raphael-session-id.onrender.com/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
+
 
 ---
 
